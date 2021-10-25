@@ -166,3 +166,11 @@ Received Import Request.
 Start importing Assets/Scripts/PlayerController.cs using Guid(b36336b4bc8d14cf59b9ed1d2671814f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '198629d233033eaa4a7e1a33ca5426f9') in 0.011295 seconds 
   Import took 0.023727 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 1738.948929 seconds.
+  path: Assets/Scenes/TitleScreen.unity
+  artifactKey: Guid(667f9cdcc404f47af8d30d7181e0dd2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/TitleScreen.unity using Guid(667f9cdcc404f47af8d30d7181e0dd2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65eaae10755f8205d7c117ca650089fd') in 0.389343 seconds 
+  Import took 0.554016 seconds .
+
